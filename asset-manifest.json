@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ant-Design-From-Basic/static/css/main.d5f231cc.chunk.css",
+    "main.js": "/Ant-Design-From-Basic/static/js/main.5be88a8d.chunk.js",
+    "main.js.map": "/Ant-Design-From-Basic/static/js/main.5be88a8d.chunk.js.map",
+    "runtime-main.js": "/Ant-Design-From-Basic/static/js/runtime-main.92f7e824.js",
+    "runtime-main.js.map": "/Ant-Design-From-Basic/static/js/runtime-main.92f7e824.js.map",
+    "static/css/2.a95be28f.chunk.css": "/Ant-Design-From-Basic/static/css/2.a95be28f.chunk.css",
+    "static/js/2.491f555a.chunk.js": "/Ant-Design-From-Basic/static/js/2.491f555a.chunk.js",
+    "static/js/2.491f555a.chunk.js.map": "/Ant-Design-From-Basic/static/js/2.491f555a.chunk.js.map",
+    "static/js/3.d9749e00.chunk.js": "/Ant-Design-From-Basic/static/js/3.d9749e00.chunk.js",
+    "static/js/3.d9749e00.chunk.js.map": "/Ant-Design-From-Basic/static/js/3.d9749e00.chunk.js.map",
+    "index.html": "/Ant-Design-From-Basic/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/Ant-Design-From-Basic/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.d5f231cc.chunk.css.map": "/Ant-Design-From-Basic/static/css/main.d5f231cc.chunk.css.map",
+    "static/js/2.491f555a.chunk.js.LICENSE.txt": "/Ant-Design-From-Basic/static/js/2.491f555a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f7e824.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.491f555a.chunk.js",
+    "static/css/main.d5f231cc.chunk.css",
+    "static/js/main.5be88a8d.chunk.js"
+  ]
+}
